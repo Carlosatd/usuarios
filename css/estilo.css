@@ -1,0 +1,25 @@
+#my{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#my td, #my th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#my th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+
+    color: white;
+}
+thead{
+    font-style: oblique;
+    color: #1dc116;
+    background-color: black;
+}
+tfoot{
+    background-color: #2a3133;
+    color: red;
+}
